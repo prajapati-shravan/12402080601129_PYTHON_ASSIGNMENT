@@ -1,1 +1,0 @@
-Run the inventory merger against sample_data/inventory_a.json and inventory_b.json.

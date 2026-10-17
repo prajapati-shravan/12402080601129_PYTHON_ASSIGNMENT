@@ -1,3 +1,0 @@
-2 2
-sample_data/page1.html
-sample_data/page2.html
