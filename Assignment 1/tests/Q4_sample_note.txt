@@ -1,2 +1,0 @@
-Run: python Q4_Exception_Safe_CSV_Transaction_Splitter.py sample_data/transactions.csv output
-Expected account summary: A1 500; A2 -100

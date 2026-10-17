@@ -1,8 +1,0 @@
-4 3
-core
-db
-ui
-auth
-ui imports auth
-auth imports db
-db imports core
