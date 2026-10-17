@@ -1,0 +1,1 @@
+Configure a local MySQL database and import sample_data/students.csv and registrations.csv.

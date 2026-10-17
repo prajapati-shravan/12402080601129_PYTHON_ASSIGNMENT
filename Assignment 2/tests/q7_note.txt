@@ -1,0 +1,1 @@
+Run Q7_Generator_JSONL_ETL.py against sample_data/sensors.jsonl.
