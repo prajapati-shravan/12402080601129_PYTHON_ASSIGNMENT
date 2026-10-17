@@ -1,0 +1,2 @@
+Run BUILD: echo 'BUILD sample_data/logs archive.zip' | python Q8_Compressed_Log_Index.py
+Then SEARCH: echo 'SEARCH archive.pkl login error' | python Q8_Compressed_Log_Index.py
